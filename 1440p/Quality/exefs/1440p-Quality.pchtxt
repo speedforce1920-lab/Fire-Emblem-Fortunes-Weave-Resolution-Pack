@@ -1,3 +1,7 @@
+// Fortune's Weave — 1440p Quality Resolution Patch
+// Target build: DB93B0125F4850601D61C3EDDE012F8EB2ECFE77
+// Requires a legally owned copy of the game.
+
 @nsobid-db93b0125f4850601d61c3edde012f8eb2ecfe77000000000000000000000000
 @flag offset_shift 0x100
 @enabled
